@@ -1,0 +1,29 @@
+<h2 class="center-text">Menu</h2>
+<ul class="nav nav-pills nav-stacked">
+    <li class="active">
+        <a href="/dogs">Dogs</a>
+    </li>
+    <li>
+        <a href="/cats">Cats</a>
+    </li>
+    <li>
+        <a href="/buildings">Buildings</a>
+    </li>
+    <li>
+        <a href="#">Pigs</a>
+    </li>
+</ul>
+
+{{> components/login}}
+
+{{> components/register}}
+
+<div class="fib-container">
+    <h2 class=>Fib</h2>
+    <p>Enter a number</p>
+    <input id="fibInput" class="form-control" type="text" name="places">
+    <input onclick="doFib()" class="btn btn-primary fib-button" type="submit" value="confirm" />
+    <br>
+    <br>
+    <p id="hiddenfib"></p>
+</div>

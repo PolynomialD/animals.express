@@ -1,0 +1,54 @@
+{
+ "buildings": [
+    {
+      "title": "St Georges Hall",
+      "link": "https://en.wikipedia.org/wiki/St_George%27s_Hall,_Liverpool",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/St_George%27s_Hall%2C_Liverpool_%282007%29.jpg",
+      "snippit": "St George's Hall is on Lime Street in the centre of the English city of Liverpool, opposite Lime Street railway station. It is a building in Neoclassical style which contains concert halls and law courts, and is recorded in the National Heritage List for England as a designated Grade I listed building.[1] On the east side of the hall, between it and the railway station, is St George's Plateau and on the west side are St John's Gardens. The hall is included in the William Brown Street conservation area.[2] In 1969 the architectural historian Nikolaus Pevsner expressed his opinion that it is one of the finest neo-Grecian buildings in the world[3] although the building is known for its use of Roman sources as well as Greek ones. In 2004, the hall and its surrounding area were recognised as part of Liverpool's World Heritage Site.["
+    },
+    {
+      "title": "Buffallo City Court",
+      "link": "https://en.wikipedia.org/wiki/Buffalo_City_Court_Building",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Buffalo_City_Court_Building%2C_1971-74%2C_Pfohl%2C_Roberts_and_Biggie_%288448022295%29.jpg",
+      "snippit": "The Buffalo City Court Building, named Frank A. Sedita City Court, for Buffalo mayor Frank A. Sedita, is a 10-story court house built in 1974 for the city of Buffalo, New York. It is in Niagara Square and adjacent to Buffalo City Hall."
+    },
+    {
+      "title": "Liverpol Cathedral",
+      "link": "https://en.wikipedia.org/wiki/Liverpool_Cathedral",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LIVERPOOL_ANGLICAN_CATHEDRAL_SEP2012_%287916053494%29.jpg/1280px-LIVERPOOL_ANGLICAN_CATHEDRAL_SEP2012_%287916053494%29.jpg",
+      "snippit": "Liverpool Cathedral is the Church of England Cathedral of the Diocese of Liverpool, built on St James's Mount in Liverpool and is the seat of the Bishop of Liverpool. It may be referred to as the Cathedral Church of Christ in Liverpool (as recorded in the Document of Consecration) or the Cathedral Church of the Risen Christ, Liverpool, being dedicated to Christ 'in especial remembrance of his most glorious Resurrection'.[1] Liverpool Cathedral is the largest cathedral and religious building in Britain."
+    },
+    {
+      "title": "Burj Khalifa",
+      "link": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/800px-Burj_Khalifa.jpg",
+      "snippit": "The Burj Khalifa (Arabic: برج خليفة‎, Arabic for \"Khalifa Tower\"; pronounced English: /ˈbɜːrdʒ kəˈliːfə/), known as the Burj Dubai before its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m (2,722 ft) and a roof height (excluding antenna) of 828 m (2,717 ft), the Burj Khalifa has been the tallest structure in the world since its topping out in late 2008.["
+    }
+ ],
+ "trees": [
+    {
+      "title": "",
+      "link": "",
+      "imgUrl": "",
+      "snippit": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "imgUrl": "",
+      "snippit": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "imgUrl": "",
+      "snippit": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "imgUrl": "",
+      "snippit": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dogs": {
+    "previews": [
+      {
+        "title": "dog 1",
+        "link": "contentpage.html",
+        "imgUrl": "http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Rottweiler-1.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "dog 2",
+        "link": "contentpage.html",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOv3x7B4uL_ISZbZAztW0n42f_hEynnE2n7-lHHTWK0KHuUgw-g",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "dog 3",
+        "link": "contentpage.html",
+        "imgUrl": "Images/dog3.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "dog 4",
+        "link": "contentpage.html",
+        "imgUrl": "Images/dog4.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "dog 5",
+        "link": "contentpage.html",
+        "imgUrl": "Images/dog5.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "dog 6",
+        "link": "contentpage.html",
+        "imgUrl": "Images/dog6.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      }
+    ]
+  },
+  "cats": {
+    "previews": [
+      {
+        "title": "cat 1",
+        "link": "contentpage2.html",
+        "imgUrl": "Images/cat1.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "cat 2",
+        "link": "contentpage2.html",
+        "imgUrl": "Images/cat2.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "cat 3",
+        "link": "contentpage2.html",
+        "imgUrl": "Images/cat3.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      },
+      {
+        "title": "cat 4",
+        "link": "contentpage2.html",
+        "imgUrl": "Images/cat4.jpg",
+        "snippit": "arcu elementum pretium nec vitae magna. Integer molestie sem quam, ut fermentum felis auctor facilisis. Cras vitae nibh a risus elementum elementum id ut odio. Phasellus vel dapibus erat. Pellentesque posuere turpis a euserInput ultrices, sit amet hendrerit lorem varius. Praesent porta quis mi finibus laoreet. Nunc quis loborti"
+      }
+    ]
+  }
+}
