@@ -43,6 +43,17 @@
         "THC": "High",
         "CBD": "Low"
       }
+    },
+    {
+      "name": "bob",
+      "category": "skunk",
+      "link": "http://google.com",
+      "imgUrl": "blah",
+      "stats": {
+        "stretch": "56",
+        "THC": "67",
+        "CBD": "78"
+      }
     }
   ]
 }
