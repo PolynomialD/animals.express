@@ -1,44 +1,48 @@
 {
-    "weed": [
-        {
-        "name": "Skunk #1",
-        "category": "Hybrid",
-        "link": "https://www.leafly.com/hybrid/skunk-1",
-        "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/skunk-no--1_100x100_7256.jpg",
-        "stats": { "stretch": "Medium",
-                "THC": "Medium",
-                "CBD": "Low"
-        }
-        },
-        {
-        "name": "Bubba Kush",
-        "category": "Indica",
-        "link": "https://www.leafly.com/indica/bubba-kush",
-        "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/bubba-kush_100x100_fb38.jpg",
-        "stats": { "stretch": "Low",
-                "THC": "High",
-                "CBD": "Medium"
-        }
-        },
-        {
-        "name": "Sour Diesel",
-        "category": "Sativa",
-        "link": "https://www.leafly.com/sativa/sour-diesel",
-        "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sour-diesel_100x100_8eb4.jpg",
-        "stats": { "stretch": "High",
-                "THC": "High",
-                "CBD": "Low"
-        }
-        },
-        {
-        "name": "OGKush",
-        "category": "Hybrid",
-        "link": "https://www.leafly.com/hybrid/og-kush",
-        "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/og-kush_100x100_f5ec.jpg",
-        "stats": { "stretch": "Low",
-                "THC": "High",
-                "CBD": "Low"
-        }
-        }   
-    ]
+  "weed": [
+    {
+      "name": "Skunk #1",
+      "category": "Hybrid",
+      "link": "https://www.leafly.com/hybrid/skunk-1",
+      "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/skunk-no--1_100x100_7256.jpg",
+      "stats": {
+        "stretch": "Medium",
+        "THC": "Medium",
+        "CBD": "Low"
+      }
+    },
+    {
+      "name": "Bubba Kush",
+      "category": "Indica",
+      "link": "https://www.leafly.com/indica/bubba-kush",
+      "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/bubba-kush_100x100_fb38.jpg",
+      "stats": {
+        "stretch": "Low",
+        "THC": "High",
+        "CBD": "Medium"
+      }
+    },
+    {
+      "name": "Sour Diesel",
+      "category": "Sativa",
+      "link": "https://www.leafly.com/sativa/sour-diesel",
+      "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/sour-diesel_100x100_8eb4.jpg",
+      "stats": {
+        "stretch": "High",
+        "THC": "High",
+        "CBD": "Low"
+      }
+    },
+    {
+      "name": "OGKush",
+      "category": "Hybrid",
+      "link": "https://www.leafly.com/hybrid/og-kush",
+      "imgUrl": "https://leafly-s3.s3.amazonaws.com/leafly/reviews/og-kush_100x100_f5ec.jpg",
+      "stats": {
+        "stretch": "Low",
+        "THC": "High",
+        "CBD": "Low"
+      }
+    }
+  ]
 }

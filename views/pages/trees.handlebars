@@ -1,16 +1,16 @@
-{{#each data}} 
-    <div class="col-md-6 col-sm-12">
-        <div class="content-box">
-            <h3 class="center-text preview-heading">{{{ this.name }}}</h3>
-            <a href="{{{ this.link }}}">
-                <img class="images" src="{{{ this.imgUrl }}}" /> 
-            </a>
-                <ul>
-                    <li>{{{ this.stats.stretch }}}</li>
-                    <li>{{{ this.stats.THC }}}</li>
-                    <li>{{{ this.stats.CBD}}}</li>
-                </ul>
-            <p>{{{ this.category }}}</p>
-        </div>
-    </div>
+{{#each data}}
+<div class="col-md-6 col-sm-12">
+  <div class="content-box">
+    <h3 class="center-text preview-heading">{{{ this.name }}}</h3>
+    <a href="{{{ this.link }}}">
+      <img class="images" src="{{{ this.imgUrl }}}" />
+    </a>
+    <p>{{{ this.category }}}</p>
+    <ul>
+      {{#each this.stats}}
+        <li>{{@key}}: {{this}}</li>
+      {{/each}}
+    </ul>
+  </div>
+</div>
 {{/each}}
