@@ -8,7 +8,7 @@ const exphbs  = require('express-handlebars')
 const indexRouter = require('./routes/index')
 const usersRouter = require('./routes/users')
 const treesRouter = require('./routes/trees')
-const buildingsRouter = require('/routes/buildings')
+const buildingsRouter = require('./routes/buildings')
 const app = express()
 
 // view engine setup

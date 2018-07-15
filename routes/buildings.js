@@ -25,4 +25,5 @@ router.post('/addBuildings', (req, res) => {
   console.log(req.baseUrl)
   res.redirect(req.baseUrl + '/buildings')
 })
+
 module.exports = router
